@@ -1,0 +1,10 @@
+.comments-area{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.ant-back-top{
+    right: 20px;
+    bottom: 100px;
+}
